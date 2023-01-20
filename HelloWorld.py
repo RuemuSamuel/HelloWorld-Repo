@@ -6,5 +6,4 @@ print('choose a number b')
 b=int(input())
 c=a+b
 print("your answer is", c)
-d=a*c
 
